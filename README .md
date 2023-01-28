@@ -1,3 +1,10 @@
+# Demo 
+
+
+
+https://user-images.githubusercontent.com/85013470/215279898-f8a2c787-e459-4036-a06e-60521b95b924.mp4
+
+
 
 # Parking Slot Detection
 
@@ -10,7 +17,7 @@ This project is aimed at developing a computer vision based solution to detect e
 ## Prerequisites
 Before you get started, you'll need to install the following dependencies:
 
-*  Python 3.6 or higher
+* Python 3.6 or higher
 * OpenCV
 * Numpy
 
