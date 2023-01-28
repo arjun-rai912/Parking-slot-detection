@@ -5,7 +5,10 @@
 
 
 
-https://user-images.githubusercontent.com/85013470/215280215-b6004e07-6626-4b8c-9439-b0e3553c63a8.mp4
+
+
+https://user-images.githubusercontent.com/85013470/215281775-69b0b9ab-e34a-404a-bacd-14977731055b.mp4
+
 
 
 
@@ -32,5 +35,4 @@ Before you get started, you'll need to install the following dependencies:
 ## Deployment
 
 This system can be deployed in a parking lot by installing cameras at strategic positions to capture images of the parking spots. The system can then process these images in real-time to identify empty spots and display the information to drivers through a user-friendly interface such as a display board or a mobile application.
-```
 
